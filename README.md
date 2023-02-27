@@ -16,7 +16,7 @@
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=devtech-ocean&postId=7&theme=vue-dark)](https://github.com/loosie/github-readme-tistory-card)
 </div>
-<br><br>
+<br><hr><br>
 
 <h3 align="center"> 📚 Tech Stack 📚 </h3>
 <h4 align="center"> 💡 Main 💡 </h4>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
 </p>
  
-<br><br>
+<br><hr><br>
 
 <h3 align="center"> 🐢 BOJ Stats 🐢 </h3>
 <div align="center">
@@ -55,11 +55,14 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jdh1109ok)](https://solved.ac/jdh1109ok) <br>
 </div>
 
-<br><br>
+<br><hr><br>
 <h3 align="center"> 👨🏻‍💻 My Github Stats 👨🏻‍💻 </h3>
+
 <div align="center">
   
-![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungDohyeon&show_icons=true&theme=dracula)
-</div>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungDohyeon&theme=monokai)
+![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungDohyeon&show_icons=true&theme=dracula) &nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JungDohyeon&theme=dark)](https://git.io/streak-stats)
+  
 [![Dohyeon's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JungDohyeon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ </div>
