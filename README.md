@@ -60,7 +60,6 @@
 <div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungDohyeon&theme=monokai)
-![Dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungDohyeon&show_icons=true&theme=dracula) &nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JungDohyeon&theme=dark)](https://git.io/streak-stat)
   
  </div>
