@@ -12,7 +12,7 @@
 - Apple - WWDC Swift Student Challenge Winner (2023. 05)
 - Apple Developer Academy @ POSTECH 2th (2023.03 ~ )
 - Dankook Univ. - LINC 3.0 사업단 창업 동아리 활동 (2022. 9 ~ 2023.1)
-- Samsung Elctronics - SW.Certification Professional Level 취득 (2022. 8)
+- Samsung Electronics (DX) - SW.Certification Professional Level (2022. 8)
 - Samsung Electornics - DX 부문 하계 대학생 S/W 알고리즘 역량 강화 특강 우수 수료 (2022.7 ~ 2022.8)
 
 ### BOJ STATS 
