@@ -5,8 +5,8 @@
 [![Naver Badge](https://img.shields.io/badge/jdh1109ok@naver.com-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:jdh1109ok@gmail.com)
 
 ## Education 📖
-- Dankook Univ. <strong> Department of Mathematics </strong> (2018 ~ 2019) 
 - Dankook Univ. <strong> Department of Software Engineering </strong> (2019 ~ now)
+- Dankook Univ. <strong> Department of Mathematics </strong> (2018 ~ 2019) 
 
 ## Activity & Awards 🎖️
 - Apple - WWDC Swift Student Challenge Winner (2023. 05)
