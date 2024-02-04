@@ -1,14 +1,15 @@
-# Dohyeon Jung (Lavine 👻)
+# Dohyeon Jung (Lavine)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungDohyeon%2FJungDohyeon.git&count_bg=%2390DF61&title_bg=%236E676B&icon=github.svg&icon_color=%23251D1E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/jdh1109ok@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jdh1109ok@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/jdh1109ok@naver.com-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:jdh1109ok@gmail.com)
 
 ## Education 📖
-- Dankook Univ. <strong> Department of Software Engineering </strong> (2019 ~ now)
+- Dankook Univ. <strong> Department of Software Engineering </strong> (2019 ~ )
 - Dankook Univ. <strong> Department of Mathematics </strong> (2018 ~ 2019) 
 
 ## Activity & Awards 🎖️
+- WINEY [SwiftUI | TCA 1.0] (2023.08 ~ )
 - Apple Developer Academy @ POSTECH 2th (2023.03 ~ 2023.12)
 - Apple - WWDC Swift Student Challenge Winner (2023. 05)
 - Dankook Univ. - LINC 3.0 사업단 창업 동아리 활동 (2022. 9 ~ 2023.1)
