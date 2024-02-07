@@ -9,6 +9,7 @@
 - Dankook Univ. <strong> Department of Mathematics </strong> (2018 ~ 2019) 
 
 ## Activity & Awards 🎖️
+- 구름톤 UNIV - 단국대학교 (2024.02 ~ )
 - WINEY [SwiftUI | TCA 1.0] (2023.08 ~ )
 - Apple Developer Academy @ POSTECH 2th (2023.03 ~ 2023.12)
 - Apple - WWDC Swift Student Challenge Winner (2023. 05)
