@@ -8,9 +8,14 @@
 - Dankook Univ. <strong> Department of Software Engineering </strong> (2019 ~ )
 - Dankook Univ. <strong> Department of Mathematics </strong> (2018 ~ 2019) 
 
+## Projects 🔥
+* WINEY [SwiftUI | TCA 1.0] (2023.08 ~ )
+  - [Repo](https://github.com/AdultOfNineteen/WINEY-iOS)
+* ZAPASS [SwiftUI] (2023.10 ~ )
+  - [AppStore](https://apps.apple.com/kr/app/zapass-재패스-일본-여행-필수-앱/id6469326956)
+
 ## Activity & Awards 🎖️
 - 구름톤 UNIV - 단국대학교 (2024.02 ~ )
-- WINEY [SwiftUI | TCA 1.0] (2023.08 ~ )
 - Apple Developer Academy @ POSTECH 2th (2023.03 ~ 2023.12)
 - Apple - WWDC Swift Student Challenge Winner (2023. 05)
 - Dankook Univ. - LINC 3.0 사업단 창업 동아리 활동 (2022. 9 ~ 2023.1)
