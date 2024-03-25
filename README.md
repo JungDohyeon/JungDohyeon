@@ -17,6 +17,7 @@
   - [Repo](https://github.com/JungDohyeon/WWDC23_MorseCode)
 
 ## Activity & Awards 🎖️
+- 2024 벚꽃톤 by 구름톤 Univ - Team 23. ZANI
 - 구름톤 UNIV - 단국대학교 (2024.02 ~ )
 - Apple Developer Academy @ POSTECH 2th (2023.03 ~ 2023.12)
 - Apple - WWDC23 Swift Student Challenge Winner (2023. 05)
