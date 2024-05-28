@@ -9,7 +9,7 @@
 - Dankook Univ. <strong> Department of Mathematics </strong> (2018 ~ 2019) 
 
 ## Projects 🔥
-* WINEY [SwiftUI | TCA 1.0] (2023.08 ~ )
+* WINEY [SwiftUI | TCA] (2023.08 ~ )
   - [Repo](https://github.com/AdultOfNineteen/WINEY-iOS)
 * ZAPASS [SwiftUI] (2023.10 ~ )
   - [AppStore](https://apps.apple.com/kr/app/zapass-재패스-일본-여행-필수-앱/id6469326956)
