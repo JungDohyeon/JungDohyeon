@@ -18,7 +18,7 @@
 
 ## Activity & Awards 🎖️
 - [Kakao x Goorm] 벚꽃톤 (2024.03.23 ~ 03.24)
-- 구름톤 UNIV - 단국대학교 (2024.02 ~ )
+- 구름톤 UNIV - 단국대학교 (2024.02 ~ 2024.06)
 - Apple Developer Academy @ POSTECH 2th (2023.03 ~ 2023.12)
 - Apple - WWDC23 Swift Student Challenge Winner (2023. 05)
 - Dankook Univ. - LINC 3.0 사업단 창업 동아리 활동 (2022. 9 ~ 2023.1)
