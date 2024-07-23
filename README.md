@@ -18,8 +18,8 @@
 
 ## Activity & Awards 🎖️
 - Samsung Electronics - DX 부문 하계 대학생 S/W 알고리즘 역량 강화 특강 (2024.07 ~ )
-- 9oormthon Univ 3기: 단국대학교 (2024.08 ~ )
-- 9oormthon Univ 2기: 단국대학교 (2024.02 ~ 2024.06)
+- 9oormthon Univ 3기: 단국대학교, iOS (2024.08 ~ )
+- 9oormthon Univ 2기: 단국대학교, iOS (2024.02 ~ 2024.06)
   - [Kakao x Goorm] 벚꽃톤 (2024.03.23 ~ 03.24)
 - Apple Developer Academy @ POSTECH 2th (2023.03 ~ 2023.12)
 - Apple - WWDC23 Swift Student Challenge Winner (2023.05)
