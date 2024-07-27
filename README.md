@@ -21,7 +21,7 @@
 - 9oormthon Univ 3기: 단국대학교, iOS (2024.08 ~ )
 - 9oormthon Univ 2기: 단국대학교, iOS (2024.02 ~ 2024.06)
   - [Kakao x Goorm] 벚꽃톤 (2024.03.23 ~ 03.24)
-- Apple Developer Academy @ POSTECH 2th (2023.03 ~ 2023.12)
+- Apple Developer Academy @ POSTECH 2nd (2023.03 ~ 2023.12)
 - Apple - WWDC23 Swift Student Challenge Winner (2023.05)
 - Dankook Univ. - LINC 3.0 사업단 창업 동아리 활동 (2022.09 ~ 2023.01)
 - Samsung Electronics SW 역량테스트 B형 취득 (2022.08)
