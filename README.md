@@ -17,7 +17,7 @@
   - [Repo](https://github.com/JungDohyeon/WWDC23_MorseCode)
 
 ## Activity & Awards 🎖️
-- Samsung Electronics - DX 부문 하계 대학생 S/W 알고리즘 역량 강화 특강 (2024.07 ~ )
+- Samsung Electronics - DX 부문 하계 대학생 S/W 알고리즘 역량 강화 특강 (2024.07 ~ 2024.08)
 - 9oormthon Univ 3기: 단국대학교, iOS (2024.08 ~ )
 - 9oormthon Univ 2기: 단국대학교, iOS (2024.02 ~ 2024.06)
   - [Kakao x Goorm] 벚꽃톤 (2024.03.23 ~ 03.24)
@@ -32,8 +32,8 @@
 
 ### TECH STACKS
 #### 💡 Main 💡
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/></a>
