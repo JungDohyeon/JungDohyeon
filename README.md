@@ -4,10 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/jdh1109ok@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jdh1109ok@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/jdh1109ok@naver.com-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:jdh1109ok@gmail.com)
 
-## Education 📖
-- Dankook Univ. <strong> Department of Software Engineering </strong> (2019 ~ )
-- Dankook Univ. <strong> Department of Mathematics </strong> (2018 ~ 2019) 
-
 ## Projects 🔥
 * WINEY [SwiftUI | TCA] (2023.08 ~ )
   - [Repo](https://github.com/AdultOfNineteen/WINEY-iOS)
@@ -15,20 +11,26 @@
   - [AppStore](https://apps.apple.com/kr/app/zapass-재패스-일본-여행-필수-앱/id6469326956)
 * MorseEye [SwiftUI, ARKit] (2023.04)
   - [Repo](https://github.com/JungDohyeon/WWDC23_MorseCode)
+<br>
 
 ## Activity & Awards 🎖️
-- Samsung Electronics - DX 부문 하계 대학생 S/W 알고리즘 역량 강화 특강 (2024.07 ~ 2024.08)
-- 9oormthon Univ 3기: 단국대학교, iOS (2024.08 ~ )
-- 9oormthon Univ 2기: 단국대학교, iOS (2024.02 ~ 2024.06)
+**iOS**
+- 9oormthon Univ 3rd: iOS (2024.08 ~ )
+- 9oormthon Univ 2th: iOS (2024.02 ~ 2024.06)
   - [Kakao x Goorm] 벚꽃톤 (2024.03.23 ~ 03.24)
-- Apple Developer Academy @ POSTECH 2nd (2023.03 ~ 2023.12)
 - Apple - WWDC23 Swift Student Challenge Winner (2023.05)
-- Dankook Univ. - LINC 3.0 사업단 창업 동아리 활동 (2022.09 ~ 2023.01)
-- Samsung Electronics SW 역량테스트 B형 취득 (2022.08)
-- Samsung Electronics - DX 부문 하계 대학생 S/W 알고리즘 역량 강화 특강 우수 수료 (2022.07 ~ 2022.08)
+- Apple Developer Academy @ POSTECH 2nd (2023.03 ~ 2023.12)
+<br>
+
+**Algorithm**
+- 삼성전자 - 2024 DX 부문 하계 대학생 S/W 알고리즘 역량 강화 특강 (2024.07 ~ 2024.08)
+- 삼성전자 - 2022 DX 부문 하계 대학생 S/W 알고리즘 역량 강화 특강 우수 수료 (2022.07 ~ 2022.08)
+- 삼성전자 SW 역량테스트 B형 취득 (2022.08)
+<br>
 
 ### BOJ STATS 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jdh1109ok)](https://solved.ac/jdh1109ok)
+<br>
 
 ### TECH STACKS
 #### 💡 Main 💡
