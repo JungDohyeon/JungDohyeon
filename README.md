@@ -16,7 +16,7 @@
 ## Activity & Awards 🎖️
 **iOS**
 - 9oormthon Univ 3rd: iOS (2024.08 ~ )
-- 9oormthon Univ 2th: iOS (2024.02 ~ 2024.06)
+- 9oormthon Univ 2nd: iOS (2024.02 ~ 2024.06)
   - [Kakao x Goorm] 벚꽃톤 (2024.03.23 ~ 03.24)
 - Apple - WWDC23 Swift Student Challenge Winner (2023.05)
 - Apple Developer Academy @ POSTECH 2nd (2023.03 ~ 2023.12)
