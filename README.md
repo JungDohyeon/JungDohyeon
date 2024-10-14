@@ -7,7 +7,7 @@
 ## Projects 🔥
 * WINEY [SwiftUI | TCA] (2023.08 ~ )
   - [Repo](https://github.com/AdultOfNineteen/WINEY-iOS)
-* ZAPASS [SwiftUI] (2023.10 ~ )
+* ZAPASS [SwiftUI] (2023.10 ~ 2024.03)
   - [AppStore](https://apps.apple.com/kr/app/zapass-재패스-일본-여행-필수-앱/id6469326956)
 * MorseEye [SwiftUI, ARKit] (2023.04)
   - [Repo](https://github.com/JungDohyeon/WWDC23_MorseCode)
