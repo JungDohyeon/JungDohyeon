@@ -16,7 +16,8 @@
 
 ## Activity & Awards 🎖️
 **iOS**
-- 9oormthon Univ 3rd: iOS (2024.08 ~ )
+- 단국대학교 SW중심대학 캡스톤 경진대회 대상 (2024.11.28)
+- 9oormthon Univ 3rd: iOS (2024.08 ~ 2024.12)
 - 9oormthon Univ 2nd: iOS (2024.02 ~ 2024.06)
   - [Kakao x Goorm] 벚꽃톤 (2024.03.23 ~ 03.24)
 - Apple - WWDC23 Swift Student Challenge Winner (2023.05)
