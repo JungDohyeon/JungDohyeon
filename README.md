@@ -14,7 +14,7 @@
   - [AppStore](https://apps.apple.com/kr/app/winey/id6469306159)
   - [Repo](https://github.com/AdultOfNineteen/WINEY-iOS)
 * ZAPASS [SwiftUI] (2023.10 ~ 2024.03)
-  - [AppStore](https://apps.apple.com/kr/app/zapass-재패스-일본-여행-필수-앱/id6469326956)
+  - ~~[AppStore](https://apps.apple.com/kr/app/zapass-재패스-일본-여행-필수-앱/id6469326956)~~
 * MorseEye [SwiftUI, ARKit] (2023.04)
   - [Repo](https://github.com/JungDohyeon/WWDC23_MorseCode)
 <br>
@@ -49,5 +49,5 @@
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/JungDohyeon" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/JungDohyeon"/>
 </a>
