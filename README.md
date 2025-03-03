@@ -5,8 +5,12 @@
 [![Naver Badge](https://img.shields.io/badge/jdh1109ok@naver.com-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:jdh1109ok@gmail.com)
 
 ## Career 👨🏻‍💻
-* 🏢 [Hanwha Systems/ICT](https://www.hanwhasystems.com/kr/index.do) [2025.01 ~ ]
-  - Worked as a Service application development & operation
+* 🏢 [Hanwha Systems/ICT](https://www.hanwhasystems.com/kr/index.do) [2025.03 ~ ]
+  - Working as a developer on service application development & operations
+  - ITO Division, Manufacturing Service Department
+* 🏢 [Hanwha Systems/ICT](https://www.hanwhasystems.com/kr/index.do) [2025.01 ~ 2025.02]
+  - Worked as an intern on service application development & operations
+  - ITO Division, Manufacturing Service Department
 <br>
 
 ## Projects 🔥
