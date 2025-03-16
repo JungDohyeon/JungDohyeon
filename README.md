@@ -7,10 +7,10 @@
 ## Career 👨🏻‍💻
 * 🏢 [Hanwha Systems/ICT](https://www.hanwhasystems.com/kr/index.do) [2025.03 ~ ]
   - Working as a developer on service application development & operations
-  - ITO Division, Manufacturing Service Department
+  - IT Operation Division, Supply Chain Management Team
 * 🏢 [Hanwha Systems/ICT](https://www.hanwhasystems.com/kr/index.do) [2025.01 ~ 2025.02]
   - Worked as an intern on service application development & operations
-  - ITO Division, Manufacturing Service Department
+  - IT Operation Division, Supply Chain Management Team
 <br>
 
 ## Projects 🔥
