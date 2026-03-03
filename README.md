@@ -14,10 +14,12 @@
 <br>
 
 ## Projects 🔥
-* WINEY [SwiftUI | TCA] (2023.08 ~ )
+* MOA [UIKit / Combine] (2026.01 ~ )
+  - [AppStore](https://apps.apple.com/kr/app/moa-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9B%94%EA%B8%89-%EC%B2%B4%EA%B0%90/id6759603878)
+* WINEY [SwiftUI, TCA / Combine] (2023.08 ~ 2025.03)
   - [AppStore](https://apps.apple.com/kr/app/winey/id6469306159)
   - [Repo](https://github.com/AdultOfNineteen/WINEY-iOS)
-* ZAPASS [SwiftUI] (2023.10 ~ 2024.03)
+* ZAPASS [SwiftUI, Combine] (2023.10 ~ 2024.03)
   - ~~[AppStore](https://apps.apple.com/kr/app/zapass-재패스-일본-여행-필수-앱/id6469326956)~~
 * MorseEye [SwiftUI, ARKit] (2023.04)
   - [Repo](https://github.com/JungDohyeon/WWDC23_MorseCode)
@@ -25,6 +27,7 @@
 
 ## Activity & Awards 🎖️
 **iOS**
+- <b>NEXTERS 28th<b> iOS Developer (2026.01 ~ 2026.02)
 - <b>Dankook University</b> SW Centered University Capstone Competition Grand Prize (2024.11.28)
 - <b>9oormthon Univ 3rd</b> Dankook University Mobile Team Leader (2024.08 ~ 2024.12)
 - <b>9oormthon Univ 2nd</b> Member as an iOS Developer (2024.02 ~ 2024.06)
